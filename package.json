@@ -1,0 +1,26 @@
+{
+  "name": "jquery.line",
+  "version": "1.0.0",
+  "description": "Draw a line between two given points with just a div and CSS .",
+  "main": "jquery.line.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ringenberg/jquery.line.git"
+  },
+  "keywords": [
+    "jquery",
+    "jquery.line"
+  ],
+  "author": "Tiago do Bem",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/Ringenberg/jquery.line/issues"
+  },
+  "homepage": "https://github.com/Ringenberg/jquery.line#readme"
+}
